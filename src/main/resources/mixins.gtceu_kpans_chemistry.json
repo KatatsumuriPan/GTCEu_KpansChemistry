@@ -1,0 +1,12 @@
+{
+  "package": "kpan.gtceu_chem.mixin.mixin",
+  "refmap": "mixins.gtceu_kpans_chemistry.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinTileEntityFurnace"
+  ],
+  "client": [],
+  "server": []
+}
